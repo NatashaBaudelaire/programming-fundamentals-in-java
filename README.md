@@ -4,7 +4,7 @@ This repository consolidates comprehensive knowledge on programming fundamentals
 
 ---
 
-## Table of Contents
+## Index
 
 - [Covered Topics](#covered-topics)  
 - [Repository Structure](#repository-structure)  
