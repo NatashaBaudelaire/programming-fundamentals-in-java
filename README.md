@@ -1,6 +1,6 @@
 # Programming Fundamentals in Java
 
-This repository consolidates comprehensive knowledge on programming fundamentals, developed through instructor-led classroom activities, independent homework assignments, and self-directed study. It serves as a structured resource for understanding core concepts and practical applications essential for foundational programming proficiency.
+This repository consolidates comprehensive knowledge of programming fundamentals, developed through instructor-led classroom activities, independent homework assignments, and self-directed study. It serves as a structured resource for understanding core concepts and practical applications essential for foundational programming proficiency.
 
 ---
 
@@ -62,20 +62,19 @@ programming-fundamentals-in-java/
 
 ## Study Context
 
-- **Classroom Activities: Exercises and projects completed under instructor guidance.**
-- **Homework Assignments: Exercises done independently to reinforce concepts.**
-- **Independent Study: Additional projects and exercises for deeper practice.**
-- **This repository reflects the evolution and consolidation of knowledge across these contexts.**
-- **This repository reflects the evolution and consolidation of knowledge gained through these different learning contexts.**
+- **Classroom Activities:** Exercises and projects completed under instructor guidance.  
+- **Homework Assignments:** Tasks carried out independently to reinforce key concepts.  
+- **Independent Study:** Additional projects and exercises for further practice.  
+- This repository reflects the development and consolidation of knowledge acquired through these various learning contexts.
 
 ---
 
 ## Objectives
 
-- **Consolidate essential programming fundamentals.**
-- **Strengthen logical reasoning and problem-solving skills.**
-- **Achieve proficiency in object-oriented programming principles.**
-- **Build a foundation for advanced studies and real-world software development.**
+- Consolidate essential programming fundamentals  
+- Strengthen logical reasoning and problem-solving abilities  
+- Develop proficiency in object-oriented programming principles  
+- Establish a solid foundation for advanced studies and real-world software development
 
 ---
 
@@ -83,18 +82,18 @@ programming-fundamentals-in-java/
 
 - **Primary Language:** Java  
 - **Recommended IDEs:** IntelliJ IDEA, Visual Studio Code, Eclipse  
-- **Version Control:** Git, hosted on GitHub  
+- **Version Control:** Git (hosted on GitHub)
 
 ---
 
 ## How to Run Examples
 
-Most code examples are written in Java and structured with one main class per file.  
+Most code examples are written in Java and are structured with a single main class per file.
 
 From the terminal:  
 
-1. Navigate to the directory containing the `.java` file.  
-2. Compile the file:  
+1. Navigate to the folder containing the `.java` file  
+2. Compile the file using:
 
 ```bash
 javac ClassName.java
@@ -106,7 +105,7 @@ javac ClassName.java
 java ClassName
 ```
 
-Alternatively, open the file in your preferred IDE and use the built-in run/debug tools.
+Alternatively, you can file in your preferred IDE and use the built-in run/debug tools.
 
 ---
 
@@ -125,28 +124,28 @@ Alternatively, open the file in your preferred IDE and use the built-in run/debu
 
 ## Repository Guidelines
 
-- Include only content relevant to covered topics.  
-- Ensure code is clean, efficient, and well-documented.  
-- Use consistent naming conventions for folders and files.  
-- Write clear and descriptive commit messages.  
-- Do not commit sensitive information (e.g., passwords, API keys).  
-- Add usage instructions or test cases when applicable.  
+- Include only Java-related content relevant to the topics
+- Maintain clean, efficient, and well-documented code
+- Use consistent naming conventions for files and directories
+- Write clear and descriptive commit messages
+- Do not commit sensitive information (e.g., passwords, API keys)
+- Add usage instructions or test cases where necessary
 
 ---
 
 ## Contribution Process
 
 1. Fork this repository.  
-2. Create a branch for your changes (`git checkout -b feature-name`).  
+2. Create a new branch (`git checkout -b feature-name`)
 3. Make your changes, ensuring:  
    - Code compiles (`javac`).  
    - Style guide is followed.  
-4. Commit with clear messages.  
+4. Commit with a meaningful message. 
 5. Push your branch to your fork (`git push origin feature-name`).  
-6. Submit a pull request for review, linking related issues if applicable.  
+6. Submit a pull request for review, linking any related issues if applicable
 
 ---
 
 ## Contact
 
-For questions, suggestions, or feedback, please open an issue on the repository or contact directly via GitHub.
+For questions, suggestions, or feedback, please open an issue on the repository or contact us directly via GitHub.
