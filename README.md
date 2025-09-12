@@ -1,6 +1,6 @@
 # Programming Fundamentals in Java
 
-This repository consolidates comprehensive knowledge of programming fundamentals, developed through instructor-led classroom activities, independent homework assignments, and self-directed study. It serves as a structured resource for understanding core concepts and practical applications essential for foundational programming proficiency.
+This repository consolidates comprehensive knowledge on programming fundamentals, developed through instructor-led classroom activities, independent homework assignments, and self-directed study. It serves as a structured resource for understanding core concepts and practical applications, essential for foundational programming proficiency.
 
 ---
 
@@ -62,17 +62,17 @@ programming-fundamentals-in-java/
 
 ## Study Context
 
-- **Classroom Activities:** Exercises and projects completed under instructor guidance.  
-- **Homework Assignments:** Tasks carried out independently to reinforce key concepts.  
-- **Independent Study:** Additional projects and exercises for further practice.  
-- This repository reflects the development and consolidation of knowledge acquired through these various learning contexts.
+- **Classroom Activities:** Exercises and projects completed with instructor support.  
+- **Homework Assignments:** Independent tasks to reinforce key concepts. 
+- **Independent Study:** Personal projects and coding challenges for deeper understanding.
+- This repository represents the consolidation of knowledge gained across these varied learning experiences.
 
 ---
 
 ## Objectives
 
-- Consolidate essential programming fundamentals  
-- Strengthen logical reasoning and problem-solving abilities  
+- Master essential programming fundamentals principles using Java
+- Strengthen logical reasoning and problem-solving abilities 
 - Develop proficiency in object-oriented programming principles  
 - Establish a solid foundation for advanced studies and real-world software development
 
@@ -104,8 +104,9 @@ javac ClassName.java
 ```bash
 java ClassName
 ```
+> Replace `filename.java` with the actual file name.
 
-Alternatively, you can file in your preferred IDE and use the built-in run/debug tools.
+Alternatively, you can utilise the built-in run/debug tools in your preferred IDE.
 
 ---
 
