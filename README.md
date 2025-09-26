@@ -4,7 +4,7 @@ This repository serves as a comprehensive repository of knowledge on programming
 
 ---
 
-## Index
+## Contents
 
 - [Covered Topics](#covered-topics)  
 - [Repository Structure](#repository-structure)  
@@ -62,10 +62,10 @@ programming-fundamentals-in-java/
 
 ## Study Context
 
-- **Classroom Activities:** Exercises and projects completed with instructor support.  
-- **Homework Assignments:** Independent tasks to reinforce key concepts. 
-- **Independent Study:** Personal projects and coding challenges for deeper understanding.
-- This repository represents the consolidation of knowledge gained across these varied learning experiences.
+- **Classroom Activities:** Exercises and projects completed with instructor support  
+- **Homework Assignments:** Independent tasks to reinforce key concepts 
+- **Independent Study:** Personal projects and coding challenges for deeper understanding
+- This repository represents the consolidation of knowledge gained across these varied learning experiences
 
 ---
 
@@ -99,7 +99,7 @@ From the terminal:
 javac ClassName.java
 ```
 
-3. Run the compiled program:  
+3. Run the compiled programme:  
 
 ```bash
 java ClassName
@@ -136,17 +136,17 @@ Alternatively, you can utilise the built-in run/debug tools in your preferred ID
 
 ## Contribution Process
 
-1. Fork this repository.  
+1. Fork this repository  
 2. Create a new branch (`git checkout -b feature-name`)
 3. Make your changes, ensuring:  
-   - Code compiles (`javac`).  
-   - Style guide is followed.  
-4. Commit with a meaningful message. 
-5. Push your branch to your fork (`git push origin feature-name`).  
+   - Code compiles (`javac`)  
+   - Style guide is followed  
+4. Commit with a meaningful message 
+5. Push your branch to your fork (`git push origin feature-name`)  
 6. Submit a pull request for review, linking any related issues if applicable
 
 ---
 
 ## Contact
 
-For questions, suggestions, or feedback, please open an issue on the repository or contact us directly via GitHub.
+For questions, suggestions, or feedback, please open an issue on the repository or contact me directly via GitHub.
